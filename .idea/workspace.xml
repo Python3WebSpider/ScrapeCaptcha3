@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="079be4de-f98c-4408-a8d5-12b5584b5ead" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1aceHTJqXeSL7dWHfyfztZiMO19" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RunManager">
+    <configuration name="spider" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="scrapecaptch3" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/spider.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.spider" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="079be4de-f98c-4408-a8d5-12b5584b5ead" name="Default Changelist" comment="" />
+      <created>1587039221259</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1587039221259</updated>
+      <workItem from="1587039222723" duration="1657000" />
+      <workItem from="1587041180318" duration="2022000" />
+      <workItem from="1587045565693" duration="205000" />
+      <workItem from="1587046487003" duration="2405000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1868" height="311" key="GridCell.Tab.0.bottom" timestamp="1587046569854">
+      <screen x="740" y="-1080" width="1920" height="1080" />
+    </state>
+    <state width="1868" height="311" key="GridCell.Tab.0.bottom/-1180.-1057.1920.1057/740.-1080.1920.1080/0.23.1440.877@740.-1080.1920.1080" timestamp="1587045770361" />
+    <state width="1868" height="311" key="GridCell.Tab.0.bottom/-1180.-1080.1920.1080/740.-1080.1920.1080/0.0.1440.900@740.-1080.1920.1080" timestamp="1587046569854" />
+    <state width="1868" height="311" key="GridCell.Tab.0.center" timestamp="1587046569852">
+      <screen x="740" y="-1080" width="1920" height="1080" />
+    </state>
+    <state width="1868" height="311" key="GridCell.Tab.0.center/-1180.-1057.1920.1057/740.-1080.1920.1080/0.23.1440.877@740.-1080.1920.1080" timestamp="1587045770359" />
+    <state width="1868" height="311" key="GridCell.Tab.0.center/-1180.-1080.1920.1080/740.-1080.1920.1080/0.0.1440.900@740.-1080.1920.1080" timestamp="1587046569852" />
+    <state width="1868" height="311" key="GridCell.Tab.0.left" timestamp="1587046569851">
+      <screen x="740" y="-1080" width="1920" height="1080" />
+    </state>
+    <state width="1868" height="311" key="GridCell.Tab.0.left/-1180.-1057.1920.1057/740.-1080.1920.1080/0.23.1440.877@740.-1080.1920.1080" timestamp="1587045770358" />
+    <state width="1868" height="311" key="GridCell.Tab.0.left/-1180.-1080.1920.1080/740.-1080.1920.1080/0.0.1440.900@740.-1080.1920.1080" timestamp="1587046569851" />
+    <state width="1868" height="311" key="GridCell.Tab.0.right" timestamp="1587046569853">
+      <screen x="740" y="-1080" width="1920" height="1080" />
+    </state>
+    <state width="1868" height="311" key="GridCell.Tab.0.right/-1180.-1057.1920.1057/740.-1080.1920.1080/0.23.1440.877@740.-1080.1920.1080" timestamp="1587045770360" />
+    <state width="1868" height="311" key="GridCell.Tab.0.right/-1180.-1080.1920.1080/740.-1080.1920.1080/0.0.1440.900@740.-1080.1920.1080" timestamp="1587046569853" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/scrapecaptch3$spider.coverage" NAME="spider Coverage Results" MODIFIED="1587046566487" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
