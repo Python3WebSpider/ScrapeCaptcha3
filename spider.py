@@ -24,7 +24,7 @@ if not CHAOJIYING_USERNAME or not CHAOJIYING_PASSWORD:
 
 class CrackCaptcha():
     def __init__(self):
-        self.url = 'https://captcha3.scrape.cuiqingcai.com/'
+        self.url = 'https://captcha3.scrape.center/'
         self.browser = webdriver.Chrome()
         self.wait = WebDriverWait(self.browser, 20)
         self.username = USERNAME
